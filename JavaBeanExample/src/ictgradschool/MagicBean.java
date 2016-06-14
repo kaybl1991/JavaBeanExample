@@ -2,6 +2,12 @@ package ictgradschool;
 
 import java.io.Serializable;
 
+/** Adding some commenting blocks to trigger the need for a Git update.
+ * 
+ * @author jthompso
+ *
+ */
+
 public class MagicBean implements Serializable {
 	
 	/** Variable all serializable things have to track version */
