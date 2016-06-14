@@ -3,7 +3,8 @@ package ictgradschool;
 import java.io.Serializable;
 
 /** Adding some commenting blocks to trigger the need for a Git update.
- * 
+ *  Making another change... but this time from a different computer!
+ *  
  * @author jthompso
  *
  */
